@@ -1,6 +1,3 @@
-[submodule "content/imdwaay-learning"]
-	path = content/imdwaay-learning
-	url = https://github.com/imDwAaY/imdwaay-learning
 [submodule "sources/yeezus"]
 	path = sources/yeezus
 	url = git@github.com:imDwAaY/YEEZUS-obsidian.git
